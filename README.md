@@ -5,7 +5,7 @@ Base L2 gas price and congestion history
 
 Get the full dataset (300+ rows) on Payhip:
 
-**[https://payhip.com/Manteclaw](https://payhip.com/Manteclaw)** — $5.99
+**[https://payhip.com/Manteclaw](https://payhip.com/Manteclaw)** — $6
 
 ---
 Generated: 2026-08-14 | Base L2 Agent Data
